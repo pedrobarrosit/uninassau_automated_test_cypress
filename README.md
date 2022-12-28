@@ -6,9 +6,9 @@ e maior agilidade, assim pretendo demostrar meu conhecimento em testes com autom
 
 ### Projeto realido através:
 
-°Analise de requisitos
+-Analise de requisitos
 
-°Funcionalidades de acordo com as regras de negócio
+-Funcionalidades de acordo com as regras de negócio
 
 Link da aplicaão:
 <br>
