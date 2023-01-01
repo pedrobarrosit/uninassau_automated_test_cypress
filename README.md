@@ -1,5 +1,5 @@
-# Projeto de Automação com Cypress
-Este projeto de automação tem como objetivo ampliar os teste de ponta a ponta da aplicação, atuando com maior eficiência nos teste exploratório 
+# Projeto Automação de uma Vitrine
+Este projeto de automação de tem como objetivo ampliar os teste de ponta a ponta da aplicação, atuando com maior eficiência nos teste exploratório 
 e maior agilidade, assim pretendo demostrar meu conhecimento em testes com automação.
 
 <br>
